@@ -15,9 +15,9 @@ unzip the shorturl.zip
 Put the 'shorturl' into the web server root folder,
 grant permission to the folder.
 
-# LAMP '/var/www/html/'
-# WAMP 'wamp/www'
-# XAMP-'/opt/lampp/htdocs/'
+### LAMP '/var/www/html/'
+### WAMP 'wamp/www'
+### XAMP-'/opt/lampp/htdocs/'
 
 ## Step 2
 import sql file 'shorturl/db_dump/shorturl.sql 
@@ -52,12 +52,12 @@ open 'shorturl' project folder,config.php file update configuration of the datab
 
 ##Files included
 
-# config.php -Configuration details are present in it aslomysql database connection
-# header.php -jquery library and bootstrap cdn loaded here.
-# footer.php.
-# index.php- Landing page/home page
-# short.php-To get the short code
-# add.php- to add the short code
-# shorturl.php- all database operations 
-# README.md
-# db_dump/shorturl.sql the sql file
+### config.php -Configuration details are present in it aslomysql database connection
+### header.php -jquery library and bootstrap cdn loaded here.
+### footer.php.
+### index.php- Landing page/home page
+### short.php-To get the short code
+### add.php- to add the short code
+### shorturl.php- all database operations 
+### README.md
+### db_dump/shorturl.sql the sql file
