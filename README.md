@@ -61,3 +61,10 @@ open 'shorturl' project folder,config.php file update configuration of the datab
 ### shorturl.php- all database operations 
 ### README.md
 ### db_dump/shorturl.sql the sql file
+
+
+
+shorturl_modified.zip contains the modified version of 'shorturl'
+featured added 
+1-  .htaccess redirection
+2-   Validation
