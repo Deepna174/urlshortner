@@ -66,5 +66,5 @@ open 'shorturl' project folder,config.php file update configuration of the datab
 
 shorturl_modified.zip contains the modified version of 'shorturl'
 featured added 
-1-  .htaccess redirection
-2-   Validation
+## 1-  .htaccess redirection
+## 2-   Validation
